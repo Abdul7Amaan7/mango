@@ -1,0 +1,1 @@
+print("ab ham fetch krna sikhre he ")

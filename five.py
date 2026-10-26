@@ -1,0 +1,1 @@
+print("pull and fetch sikhane ke liye ak file bnayi")
